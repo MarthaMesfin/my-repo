@@ -29,7 +29,12 @@
 
 def temDefine():
     print('Abcd')
+   
+
+def temDefine():
+    print('Abcd')
     
     
-    
-print('jhjgjh')
+def temDefine():
+    print('Abcd')
+  
